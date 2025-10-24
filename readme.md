@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://portfolio-umang-07.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-13A9F5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:umangbhut10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
