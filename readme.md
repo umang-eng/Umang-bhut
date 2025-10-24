@@ -57,16 +57,6 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 ---
 
-##  My Contribution Snake
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/umang-eng/umang-eng/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-  
-</div>
-
----
-
 ##  My Projects
 
 Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.app**](https://portfolio-umang-07.vercel.app/) to see them live!
