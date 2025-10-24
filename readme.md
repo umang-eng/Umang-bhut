@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Umang%20Bhut&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Umang%20Bhut&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0&section=header&strokeWidth=1&stroke=ff0080" alt="Header"/>
 
 </div>
 
