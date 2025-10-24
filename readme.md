@@ -44,7 +44,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umang-eng&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" alt="Umang's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umang-eng&show_icons=true&theme=tokyonight-duo&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" alt="Umang's GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-eng&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak Stats"/>
 <br/>
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-eng&layout=compact&theme=transparent&hide_border=true&langs_count=10&custom_title=🔥%20Most%20Used%20Languages" alt="Top Languages"/>
