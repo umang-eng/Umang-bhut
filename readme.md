@@ -81,6 +81,6 @@ Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thanks%20for%20visiting&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thanks%20for%20visiting&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0&section=footer&strokeWidth=1&stroke=ff0080" alt="Footer"/>
 
 </div>
