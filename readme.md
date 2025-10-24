@@ -24,13 +24,13 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I am a web developer with a passion for creating beautiful and functional websites. I am a quick learner and always looking to expand my knowledge and skills. I'm actively building projects with the MERN stack and exploring new ways to solve problems with code.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <div align="center">
   
@@ -40,7 +40,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 ---
 
-## 📊 My GitHub Activity
+##  My GitHub Activity
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 ---
 
-## 🐍 My Contribution Snake
+##  My Contribution Snake
 
 <div align="center">
   
@@ -67,7 +67,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 ---
 
-## 💡 My Projects
+##  My Projects
 
 Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.app**](https://portfolio-umang-07.vercel.app/) to see them live!
 
@@ -81,6 +81,6 @@ Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20,30,50&height=120&section=footer&animation=twinkling&fontColor=ffffff" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=15,30,50&height70&section=footer&animation=twinkling&fontColor=ffffff" alt="Footer"/>
 
 </div>
