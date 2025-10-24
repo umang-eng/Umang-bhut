@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20,30,50&height=250&section=header&text=Umang%20Patel&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=25&descAlignY=55" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Umang%20Bhut&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0" alt="Header"/>
 
 </div>
 
@@ -81,6 +81,6 @@ Here are a few projects from my portfolio. Visit [**portfolio-umang-07.vercel.ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=15,30,50&height70&section=footer&animation=twinkling&fontColor=ffffff" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thanks%20for%20visiting&fontColor=000000&fontAlign=50&animation=fadeIn&rotate=0&section=footer" alt="Footer"/>
 
 </div>
