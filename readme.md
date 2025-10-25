@@ -51,7 +51,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 <br/>
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=umang-eng&theme=transparent&hide_border=true&color=000008&background=000000&line=74c7ec&point=f5c2e7&area=true" alt="GitHub Activity Graph"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=umang-eng&theme=tokyonight-duo&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=umang-eng&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 
 </div>
 
