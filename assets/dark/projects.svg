@@ -10,6 +10,7 @@
     .copy { font-size: 14px; fill: var(--muted); }
     .meta { font-size: 10px; fill: var(--accent); letter-spacing: 2.5px; }
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
+      :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
   </style>
 
   <g transform="translate(0, 0)">

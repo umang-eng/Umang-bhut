@@ -8,6 +8,7 @@
     .g2{animation-delay:.1s}.g3{animation-delay:.2s}.g4{animation-delay:.3s}.g5{animation-delay:.4s}
     @keyframes grow { to { transform:scaleX(1); } }
     @media (prefers-reduced-motion:reduce) { .grow { animation:none; transform:scaleX(1); } }
+      :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
   </style>
   <rect class="panel" x="24" y="20" width="456" height="270" rx="2"/>
   <rect class="panel" x="520" y="20" width="456" height="270" rx="2"/>

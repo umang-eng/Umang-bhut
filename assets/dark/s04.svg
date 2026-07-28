@@ -15,7 +15,8 @@
       .draw,.f,.tick { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; }
     }
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
-</style>
+    :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
+  </style>
   <g class="f">
     <text class="mono" x="48" y="68" font-size="52" fill="var(--ghost)">04</text>
     <text class="mono tick" x="128" y="58" font-size="14" fill="var(--accent)" letter-spacing="6">TELEMETRY</text>

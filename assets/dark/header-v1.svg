@@ -18,7 +18,8 @@
       .draw{stroke-dashoffset:0} .rise,.fade{opacity:1} .rot{opacity:0} .rot.r1{opacity:1}
     }
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
-</style>
+    :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
+  </style>
 
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a1">

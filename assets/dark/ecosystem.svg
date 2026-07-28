@@ -28,7 +28,8 @@
       .wire{stroke-dashoffset:0} .pop{opacity:1} .flow{opacity:.1}
     }
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
-</style>
+    :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
+  </style>
 
   <defs>
     <mask id="node-cutouts" maskUnits="userSpaceOnUse" x="0" y="0" width="1000" height="680">

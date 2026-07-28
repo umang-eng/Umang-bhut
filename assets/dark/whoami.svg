@@ -8,7 +8,8 @@
     .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.35s} .a4{animation-delay:.5s} .a5{animation-delay:.65s} .a6{animation-delay:.8s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
   :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
-</style>
+    :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; }
+  </style>
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">final-year IT student at Indus Institute of Technology &amp; Engineering, Ahmedabad.</text>
   <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building end-to-end AI/ML solutions — Python · TensorFlow · PyTorch · Databricks.</text>
