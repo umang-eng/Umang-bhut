@@ -13,28 +13,34 @@
       :root { --bone: #000000; --muted: #000000; --dim: #000000; --rule: #000000; --accent: #000000; --node-bg: #FFFFFF; --core-bg: #FFFFFF; --ghost: #000000; }
   </style>
 
-  <g class="rise a1" transform="translate(0, 0)">
-    <text class="mono meta" x="48" y="42">001</text>
-    <text class="mono head" x="48" y="70">PDM-AI — Predictive Maintenance for Industrial Machinery</text>
-    <text class="mono copy" x="48" y="96">Built an AI system to predict failure of industrial machine parts in advance,</text>
-    <text class="mono copy" x="48" y="118">addressing multi-week replacement-part delivery delays.</text>
-    <text class="mono copy" x="48" y="140">Designed a futuristic dashboard for live sensor readings and an AI chatbot for maintenance.</text>
-    <text class="mono meta" x="48" y="174">PYTHON · SCIKIT-LEARN · REACT</text>
+  <g transform="translate(0, 0)">
+    <g class="rise a1">
+      <text class="mono meta" x="48" y="42">001</text>
+      <text class="mono head" x="48" y="70">PDM-AI — Predictive Maintenance for Industrial Machinery</text>
+      <text class="mono copy" x="48" y="96">Built an AI system to predict failure of industrial machine parts in advance,</text>
+      <text class="mono copy" x="48" y="118">addressing multi-week replacement-part delivery delays.</text>
+      <text class="mono copy" x="48" y="140">Designed a futuristic dashboard for live sensor readings and an AI chatbot for maintenance.</text>
+      <text class="mono meta" x="48" y="174">PYTHON · SCIKIT-LEARN · REACT</text>
+    </g>
   </g>
 
-  <g class="rise a2" transform="translate(0, 180)">
-    <text class="mono meta" x="48" y="42">002</text>
-    <text class="mono head" x="48" y="70">AI Architect — Blueprint Maker</text>
-    <text class="mono copy" x="48" y="96">Developed an AI tool that auto-generates architectural blueprints from user-entered measurements.</text>
-    <text class="mono copy" x="48" y="118">Translates raw plot dimensions into structured, ready-to-use building layouts, reducing manual effort.</text>
-    <text class="mono meta" x="48" y="152">PYTHON · GENERATIVE AI · COMPUTER VISION</text>
+  <g transform="translate(0, 180)">
+    <g class="rise a2">
+      <text class="mono meta" x="48" y="42">002</text>
+      <text class="mono head" x="48" y="70">AI Architect — Blueprint Maker</text>
+      <text class="mono copy" x="48" y="96">Developed an AI tool that auto-generates architectural blueprints from user-entered measurements.</text>
+      <text class="mono copy" x="48" y="118">Translates raw plot dimensions into structured, ready-to-use building layouts, reducing manual effort.</text>
+      <text class="mono meta" x="48" y="152">PYTHON · GENERATIVE AI · COMPUTER VISION</text>
+    </g>
   </g>
 
-  <g class="rise a3" transform="translate(0, 340)">
-    <text class="mono meta" x="48" y="42">003</text>
-    <text class="mono head" x="48" y="70">AI Startup Evaluation Engine</text>
-    <text class="mono copy" x="48" y="96">AI-powered platform helping startups assess and improve cost, roadmap, and structure.</text>
-    <text class="mono copy" x="48" y="118">Designed a 'Startup DNA' module to profile a startup's core strengths and gaps for founders.</text>
-    <text class="mono meta" x="48" y="152">PYTHON · NLP · NEXTJS</text>
+  <g transform="translate(0, 340)">
+    <g class="rise a3">
+      <text class="mono meta" x="48" y="42">003</text>
+      <text class="mono head" x="48" y="70">AI Startup Evaluation Engine</text>
+      <text class="mono copy" x="48" y="96">AI-powered platform helping startups assess and improve cost, roadmap, and structure.</text>
+      <text class="mono copy" x="48" y="118">Designed a 'Startup DNA' module to profile a startup's core strengths and gaps for founders.</text>
+      <text class="mono meta" x="48" y="152">PYTHON · NLP · NEXTJS</text>
+    </g>
   </g>
 </svg>
