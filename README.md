@@ -23,8 +23,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg?v=4"/><img src="assets/github-stats.svg?v=4" width="97%" alt="GitHub statistics and repository languages"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=umang-eng&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=umang-eng&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
-
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg?v=4"/><img src="assets/s05.svg?v=4" alt="05 — the route"/></picture>
